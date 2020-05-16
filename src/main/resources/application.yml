@@ -1,0 +1,9 @@
+server:
+  port: 3100
+  tomcat:
+    maxHttpHeaderSize: 102400
+debug: true
+
+
+
+
